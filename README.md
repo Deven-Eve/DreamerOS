@@ -1,3 +1,6 @@
+===NOT ALL FILES YET UPLOADED===
+===NOCH NICHT ALLE DATEIEN HOCHGELADEN===
+
 # DreamerOS (English below - to be expanded)
 Das Betriebssystem zum Schreiben von Geschichten.
 
