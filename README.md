@@ -48,7 +48,7 @@ Wie installiert man DreamerOS?
 12. Im nächsten Bildschirm sollten bis auf den USB-Stick mit Clonezilla alle Partitionen erscheinen (lokale Festplatte und USB-Stick mit DreamerOS)
 13. Drückt strg+C
 14. Wählt nun den USB-Stick mit DreamerOS aus
-15. Folgt den Schritten für "recover image on local device"
+15. Folgt den Schritten für "recover image on local device", die Überprüfung des Images kann übersprungen werden, um Zeit zu sparen, die Überprüfung der Installation ist empfehlenswert.
 
 The operating system for writing stories.
 
